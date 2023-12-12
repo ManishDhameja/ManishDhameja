@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👋 Hi, I’m Manish<br/>
-😄 I am a 2023 graduate with a Bachelor of Technology in Electronics & Instrumentation Engineering from Shri Govindram Sekseria Institue of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technology & Science, Indore.
+😄 I am a 2023 graduate with a Bachelor of Technology in Electronics & Instrumentation Engineering from Shri Govindram Sekseria Institue of Technology & Science, Indore.
 <br/>
 🌱 I am a dedicated software developer, passionate about tackling challenges, exploring diverse domains, and acquiring new skills.<br/>
 🧠 My skill set includes:<br/>
